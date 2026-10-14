@@ -1,4 +1,4 @@
-# Edition Cup 🎬
+# Edition Cut 🎬
 
 **Editor de vídeo profissional gratuito para Android 15+ (API 35)**
 
